@@ -8,7 +8,7 @@
 - 💼 **Software Engineer** with 3 years of experience in QA Engineering.
 - 🌐 Based in **Chandler, AZ**.
 - 🌱 Fascinated by technology and the ways applications can be designed to solve real-world problems.
-- 🔭 When I’m not coding, I enjoy traveling, psychology, and discovering more about the world.
+- 🔭 When I’m not coding, I enjoy Traveling, Psychology, and Japanese Culture.
 
 ---
 
