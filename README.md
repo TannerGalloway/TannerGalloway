@@ -1,14 +1,14 @@
 <h1>Hi there 👋, I'm Tanner Galloway</h1>
-<h3>Software Engineer | QA Engineer | Curious Technologist</h3>
+<h3>Software Engineer | QA Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 **Software Engineer** with 3 years of experience in QA Engineering.
-- 🌐 Based in **Chandler, AZ**.
-- 🌱 Fascinated by technology and the ways applications can be designed to solve real-world problems.
-- 🔭 When I’m not coding, I enjoy Traveling, Psychology, and Japanese Culture.
+- 🛠️ **Software Engineer** with 3 years of experience in QA Engineering.
+- 🌵 Based in **Chandler, AZ**.
+- 🧠 Fascinated by technology and the ways applications can be designed to solve real-world problems.
+- 🌏 When I’m not coding, I enjoy Traveling, Psychology, and Japanese Culture.
 
 ---
 
@@ -38,8 +38,8 @@ Here are a few projects I've enjoyed working on:
 
 1.  **✒️ [InkProv](https://github.com/TeamTandamett/inkprov)**
 
-    - Inkprov is an application that enables users to collaboratively create and share stories in real-time with the improv concept of “yes... and”.
-    - _Technologies Used:_ JavaScript, React, NodeJS, Express, PostgreSQL
+    - Inkprov is a platform that enables users to collaboratively create and share stories in real-time. The platform blends the "Spontaneous" nature of improv’s “yes... and” with structured storytelling. It allows multiple users to work together on creative writing projects, encouraging creativity.
+    - _Technologies Used:_ JavaScript, Typescript, React, NodeJS, Express, PostgreSQL
 
 2.  **🌐 [ExploreNation](https://github.com/tannergalloway/ExploreNation)**
 
