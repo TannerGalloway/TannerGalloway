@@ -1,14 +1,15 @@
 <h1>Hi there 👋, I'm Tanner Galloway</h1>
-<h3>Software Engineer | QA Engineer</h3>
+<h3>QA Engineer | Software Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🛠️ **Software Engineer** with 3 years of experience in QA Engineering.
+- 🛠️ ***QA Engineer*** with 3 years experience as well as in full stack development.
 - 🌵 Based in **Chandler, AZ**.
+- ✅ Dedicated to improving software applications for end users.
 - 🧠 Fascinated by technology and the ways applications can be designed to solve real-world problems.
-- 🌏 When I’m not coding, I enjoy Traveling, Psychology, and Japanese Culture.
+- 🌏 When I’m not hunting for bugs, I enjoy Traveling, Psychology, and Japanese Culture.
 
 ---
 
