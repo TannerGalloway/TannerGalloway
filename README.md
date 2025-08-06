@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🛠️ ***QA Engineer*** with 3 years experience as well as in full stack development.
+- 🛠️ ***QA Engineer*** with 3 years experience and a foundation in full stack development.
 - 🌵 Based in **Chandler, AZ**.
 - ✅ Dedicated to improving software applications for end users.
 - 🧠 Fascinated by technology and the ways applications can be designed to solve real-world problems.
