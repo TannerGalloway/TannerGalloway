@@ -9,7 +9,7 @@
 - 🌵 Based in **Chandler, AZ**.
 - ✅ Dedicated to improving software applications for end users.
 - 🧠 Fascinated by technology and the ways applications can be designed to solve real-world problems.
-- 🌏 When I’m not hunting for bugs, I enjoy Traveling, Psychology, and Japanese Culture.
+- 🌏 When I’m not hunting for bugs oe coding, I enjoy Traveling, Psychology, and Japanese Culture.
 
 ---
 
